@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Products\Products\bin\Debug\Products.dacpac
+C:\Users\USER\source\repos\Products\Products\bin\Debug\Products.dll
+C:\Users\USER\source\repos\Products\Products\bin\Debug\Products.pdb
+C:\Users\USER\source\repos\Products\Products\obj\Debug\Products.sqlprojAssemblyReference.cache
+C:\Users\USER\source\repos\Products\Products\obj\Debug\Model.xml
+C:\Users\USER\source\repos\Products\Products\obj\Debug\refactor.xml
+C:\Users\USER\source\repos\Products\Products\obj\Debug\postdeploy.sql
+C:\Users\USER\source\repos\Products\Products\obj\Debug\predeploy.sql
+C:\Users\USER\source\repos\Products\Products\obj\Debug\Products.dll
+C:\Users\USER\source\repos\Products\Products\obj\Debug\Products.pdb

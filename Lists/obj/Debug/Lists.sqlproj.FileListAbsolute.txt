@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Lists\Lists\bin\Debug\Lists.dacpac
+C:\Users\USER\source\repos\Lists\Lists\bin\Debug\Lists.dll
+C:\Users\USER\source\repos\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\USER\source\repos\Lists\Lists\bin\Debug\Products.dll
+C:\Users\USER\source\repos\Lists\Lists\bin\Debug\Products.pdb
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\Lists.sqlprojAssemblyReference.cache
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\Model.xml
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\refactor.xml
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\postdeploy.sql
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\predeploy.sql
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\Lists.sqlproj.CopyComplete
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\Lists.dll
+C:\Users\USER\source\repos\Lists\Lists\obj\Debug\Lists.pdb
