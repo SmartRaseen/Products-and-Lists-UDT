@@ -14,7 +14,7 @@ SELECT @xmltype;					/*this command is used to serialize the data into Xml Forma
 
 DECLARE @list List = List :: Parse('9,Table,10,1000.80#10,Chair,15,600.35#11,Fan,25,400.55');
 SELECT @list.ToString() AS Products;
-INSERT INTO ListOfProducts(ProductsList) VALUES(@list.ToString()); /* This three command to used insert first product and retrieve all the product list*/
+INSERT INTO ListOfProducts(ProductsList) VALUES(@list.ToString()); /* This three command is used to insert first product and retrieve all the product list*/
 
 CREATE TABLE ListOfProducts(ID INT IDENTITY(1,1) PRIMARY KEY NOT NULL,ProductsList List NOT NULL);
 
